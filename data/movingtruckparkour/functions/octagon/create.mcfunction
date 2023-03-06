@@ -1,0 +1,2 @@
+execute positioned 0 -59 0 summon minecraft:block_display run data merge entity @s {Tags:["octagon"],block_state:{Name:"minecraft:light_blue_concrete"},transformation:{scale:[1,1,10]}}
+execute positioned 0 -59 0 summon minecraft:block_display run data merge entity @s {Tags:["octagon"],block_state:{Name:"minecraft:light_blue_concrete"},transformation:{scale:[1,1,10],left_rotation:{angle:0.79,axis:[0,0,1]}}}
