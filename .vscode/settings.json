@@ -1,6 +1,7 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
+  // Remove this once Datapack Helper extension is updated to support Minecraft 1.20 syntax
   "datapack.lint.strictEntityTypeCheck": null,
   "files.trimFinalNewlines": true,
   "files.insertFinalNewline": true,
